@@ -10,7 +10,7 @@
 
 ### Phase 2 - Linear Regression model
 
-  We use as input the best fetaures selected in phase 1
+  We used as input the best fetaures selected in phase 1
 
   1. Data shuffling and splitting
   2. Features standardization 
