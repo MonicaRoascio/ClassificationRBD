@@ -1,6 +1,6 @@
 # RBD/Healthy Classification
 
-### Phase 1 - LASSO model
+### Phase 1 - LASSO
 
   1. Data shuffling and splitting
   2. Features standardization 
