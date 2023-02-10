@@ -6,7 +6,7 @@
   2. Features standardization 
   3. Hyperparameters search
   4. Model training
-  6. Performance evaluation (accuracy, precision, recall and f1-score). 
+  6. Performance evaluation (f1-score, specificity, sensitivity, and precision). 
 
 ### Phase 2 - Linear Regression model
 
